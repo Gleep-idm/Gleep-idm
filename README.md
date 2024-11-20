@@ -2,7 +2,6 @@
 - Current Job: Software Developer at State Farm
 - Interests: Brain computer interfaces, web development, Artificial Learning
 - Linkedin: https://www.linkedin.com/in/ian-mckenzie-05a8a2149?original_referer=https%3A%2F%2Fwww.google.com%2F
-- Contact email: ianmckenzie000@gmail.com
 
 <!---
 Gleep-idm/Gleep-idm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
